@@ -40,39 +40,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-
-# Specifies intentionally untracked files to ignore when using Git
-# http://git-scm.com/docs/gitignore
-
-kiinitro-app/*~
-*.sw[mnpcod]
-kiinitro-app/*.log
-kiinitro-app/*.tmp
-kiinitro-app/*.tmp.*
-kiinitro-app/log.txt
-kiinitro-app/*.sublime-project
-kiinitro-app/*.sublime-workspace
-kiinitro-app/.vscode/
-kiinitro-app/npm-debug.log*
-
-kiinitro-app/.idea/
-kiinitro-app/.sass-cache/
-kiinitro-app/.tmp/
-kiinitro-app/.versions/
-kiinitro-app/coverage/
-kiinitro-app/dist/
-kiinitro-app/node_modules/
-kiinitro-app/tmp/
-kiinitro-app/temp/
-kiinitro-app/hooks/
-kiinitro-app/platforms/
-kiinitro-app/plugins/
-kiinitro-app/plugins/android.json
-kiinitro-app/plugins/ios.json
-kiinitro-app/www/
-kiinitro-app/$RECYCLE.BIN/
-
-kiinitro-app/.DS_Store
-kiinitro-app/Thumbs.db
-kiinitro-app/UserInterfaceState.xcuserstate
