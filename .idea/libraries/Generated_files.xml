@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.prod.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/TimeoutError.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/EmptyError.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/jasmine-spec-reporter/examples/typescript/spec/node-spec.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/applyMixins.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/errorObject.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/not.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/MapPolyfill.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/ObjectUnsubscribedError.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/testing/SubscriptionLog.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/tsickle/src/modules_manifest.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/extra/cordova.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/browser/webapis-media-query.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/browser/webapis-notification.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/noop.js" />
+        <item url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/FastMap.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.prod.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/TimeoutError.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/@angular/cli/blueprints/ng/files/__path__/environments/environment.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/EmptyError.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/jasmine-spec-reporter/examples/typescript/spec/node-spec.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/applyMixins.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/errorObject.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/not.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/MapPolyfill.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/ObjectUnsubscribedError.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/testing/SubscriptionLog.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/tsickle/src/modules_manifest.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/extra/cordova.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/browser/webapis-media-query.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/zone.js/lib/browser/webapis-notification.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/noop.js" />
+      <root url="file://$PROJECT_DIR$/kiinitro-web/node_modules/rxjs/src/util/FastMap.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

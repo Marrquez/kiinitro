@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
 
       // Page scrolling feature
       jQuery('a.page-scroll').bind('click', function(event) {
-        var link = $(this);
+        var link = jQuery(this);
         jQuery('html, body').stop().animate({
           scrollTop: jQuery(link.attr('href')).offset().top - 50
         }, 500);
@@ -57,6 +57,6 @@ export class AppComponent implements OnInit {
     })();
 
     // Activate WOW.js plugin for animation on scrol
-    new WOW().init();
+    //new WOW().init();
   };
 }
